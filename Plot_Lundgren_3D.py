@@ -1,7 +1,7 @@
 """
 Plot data generated using main.py
 
-python3 plot_homogeneous_3D.py
+python3 Plot_Lundgren_3D.py
 
 """
 
